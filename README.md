@@ -1,5 +1,8 @@
 # Motivational-Quote-Generator
 
-WIP - Currently trying to fix the formatting of the first 50 quotes so that they work and then add in the rest. I'm having issues escaping single quotes (') and double quote (") characters.
+I got the idea from seeing a script for Fortunes in Scott Simpson's LinkedIn Learning course 'Learning Bash Scripting'.
 
-Quotes from: https://parade.com/973277/jessicasager/inspirational-quotes/
+Quotes are from: https://parade.com/973277/jessicasager/inspirational-quotes/
+
+I copied the quotes into a document and formatted them so that they'd be easier to copy into the script. I ended up changing up one of the quotes to
+“It's about drive, its about power, we stay hungry, we devour” — Dwayne "The Rock" Johnson
